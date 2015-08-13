@@ -2,7 +2,7 @@ var _  require('lodash');
 
 var callbacks = [];
 
-export default {
+module.exports = {
   callbacks: function () {
     return callbacks;
   },
