@@ -1,6 +1,6 @@
 {
   "name": "service-callbacks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Register callbacks with an object",
   "main": "index.js",
   "scripts": {
